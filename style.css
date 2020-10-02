@@ -1,0 +1,56 @@
+
+body {
+    margin: 0%;
+    background-color: rgb(255, 212, 212);
+}
+
+
+
+.firstbar {
+    background-color: red;
+    height: 80px;
+    box-shadow: 2px 2px 20px black;
+    
+    
+    
+}
+#one {
+    font-family: 'Judson', serif;
+    font-size: 25px;
+    width: 75%;
+    padding-left: 1%;
+    margin-top: -380px;
+    font-weight: bold;
+}
+
+.two {
+    font-family: 'Judson', serif;
+    width: 75%;
+    font-size: 19px;
+    padding-left: 1%;
+    font-weight: 600;
+
+}
+
+.under {
+    padding-left: 80%;
+    margin-top: -190px;
+    font-family: 'Judson', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+h1 {
+    margin-top: -60px;
+    text-align: center;
+    font-family: 'Quando', serif;
+    color: white;
+}
+
+#Dp {
+    height: 375px;
+    position: relative;
+    padding-left: 79%;
+    padding-top: 55px;
+    
+}
